@@ -1,4 +1,4 @@
-## Learning Scratch Implementations in Python
+# Learning Scratch Implementations in Python
 
 This repository focuses on learning basic implementations in Python.
 
